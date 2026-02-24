@@ -27,7 +27,7 @@ jobs:
       - name: Run weather script
         env:
           OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
-        run: scripts/get_temps.py
+        run: python scripts/get_temps.py
 
       - name: Commit and push changes
         run: |
