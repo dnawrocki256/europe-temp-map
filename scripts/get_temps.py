@@ -2,13 +2,21 @@ import geopandas as gpd
 import requests
 import json
 import pandas as pd
+import os
+from datetime import datetime
 
-KEY = OPENWEATHER_KEY
+KEY = os.getenv("OPENWEATHER_KEY")
+if not KEY:
+        with open("k.txt", "r") as f:
+            KEY = f.read().strip()
+
+date = datetime.now().strftime("%Y-%m-%d")
+print(date)
 locations = gpd.read_file("./locations_json.geojson")
-date = "2026-01-12"
 
 def get_temp(lat, lon, name, number):
     url = f"https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude=current,minutely,hourly,alerts&units=metric&appid={KEY}"
+    high_temp = None
     try:
         r = requests.get(url)
         high_temp = r.json()["daily"][0]["temp"]["max"]

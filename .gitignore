@@ -1,0 +1,4 @@
+k.txt
+.env
+__pycache__/
+*.csv
