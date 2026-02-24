@@ -1,0 +1,595 @@
+properties.Name,properties.Country,properties.high_temp,properties.in_europe
+Faro,Portugal,18.15,yes
+Jaén,Spain,17.99,yes
+Catania,Italy,17.46,yes
+Almería,Spain,17.45,yes
+Valletta,Malta,17.26,yes
+Cádiz,Spain,17.06,yes
+Pantelleria,Italy,16.74,yes
+Coimbra,Portugal,16.49,yes
+Pescara,Italy,16.48,yes
+Huelva,Spain,16.38,yes
+Palermo,Italy,16.23,yes
+Lampedusa,Italy,16.19,yes
+Ancona,Italy,16.17,yes
+Palma,Spain,16.15,yes
+Lecce,Italy,15.94,yes
+Bari,Italy,15.78,yes
+Cagliari,Italy,15.64,yes
+Málaga,Spain,15.64,yes
+Badajoz,Spain,15.57,yes
+Messina,Italy,15.55,yes
+Seville,Spain,15.41,yes
+Cartagena,Spain,15.37,yes
+Mahon,Spain,15.32,yes
+Valencia,Spain,15.31,yes
+Murcia,Spain,15.07,yes
+Leiria,Portugal,15.04,yes
+Foggia,Italy,15.02,yes
+Lisbon,Portugal,15.0,yes
+Ibiza,Spain,15.0,yes
+Grosseto,Italy,14.94,yes
+Córdoba,Spain,14.94,yes
+Alicante,Spain,14.89,yes
+Ajaccio,France,14.87,yes
+Gibraltar,Gibraltar,14.76,yes
+Taranto,Italy,14.54,yes
+Kalamata,Greece,14.52,yes
+Naxos,Greece,14.46,yes
+Zadar,Croatia,14.43,yes
+Vigo,Spain,14.36,yes
+Beja,Portugal,14.3,yes
+Olbia,Italy,14.27,yes
+Rome,Italy,14.02,yes
+Split,Croatia,14.02,yes
+Crotone,Italy,14.0,yes
+Argostoli,Greece,13.94,yes
+Heraklion,Greece,13.91,yes
+Livorno,Italy,13.86,yes
+Chania,Greece,13.82,yes
+Chalkida,Greece,13.82,yes
+Sassari,Italy,13.79,yes
+Agrigento,Italy,13.75,yes
+Porto,Portugal,13.73,yes
+Granada,Spain,13.73,yes
+Dubrovnik,Croatia,13.71,yes
+Banja Luka,Bosnia and Herzegovina,13.66,yes
+Naples,Italy,13.5,yes
+Myrina,Greece,13.49,yes
+Albacete,Spain,13.25,yes
+Ragusa,Italy,13.17,yes
+Bastia,France,13.13,yes
+Tuzla,Bosnia and Herzegovina,13.01,yes
+La Spezia,Italy,12.8,yes
+Nice,France,12.79,yes
+Karpathos,Greece,12.71,yes
+Tarragona,Spain,12.64,yes
+Patras,Greece,12.63,yes
+Kos,Greece,12.6,yes
+Chios,Greece,12.5,yes
+Corfu,Greece,12.42,yes
+A Coruña,Spain,12.15,yes
+Barcelona,Spain,12.07,yes
+Pleven,Bulgaria,11.89,yes
+Belgrade,Serbia,11.85,yes
+Santander,Spain,11.84,yes
+Athens,Greece,11.7,yes
+Perpignan,France,11.69,yes
+Cuenca,Spain,11.68,yes
+Teruel,Spain,11.66,yes
+Bilbao,Spain,11.66,yes
+Rhodes,Greece,11.64,yes
+Rijeka,Croatia,11.44,yes
+Cáceres,Spain,11.37,yes
+Ciudad Real,Spain,11.26,yes
+Florence,Italy,11.24,yes
+Osijek,Croatia,10.97,yes
+Girona,Spain,10.9,yes
+Segovia,Spain,10.86,yes
+San Sebastián,Spain,10.79,yes
+Lamia,Greece,10.73,yes
+Gijón,Spain,10.72,yes
+Kursk,Russia,10.49,yes
+Perugia,Italy,10.43,yes
+Cosenza,Italy,10.36,yes
+Vlorë,Albania,10.33,yes
+Toulon,France,10.09,yes
+Toledo,Spain,10.04,yes
+Niš,Serbia,9.97,yes
+Marseille,France,9.74,yes
+Tirana,Albania,9.49,yes
+Pula,Croatia,9.27,yes
+San Marino,San Marino,9.27,yes
+Lorient,France,9.2,yes
+Genoa,Italy,9.11,yes
+Brest,France,9.07,yes
+Zaragoza,Spain,8.94,yes
+Madrid,Spain,8.91,yes
+Zagreb,Croatia,8.7,yes
+Užice,Serbia,8.66,yes
+Brescia,Italy,8.66,yes
+Novi Sad,Serbia,8.61,yes
+Zenica,Bosnia and Herzegovina,8.6,yes
+Logroño,Spain,8.5,yes
+Lugo,Spain,8.48,yes
+Potenza,Italy,8.47,yes
+Andorra la Vella,Andorra,8.23,yes
+Varna,Bulgaria,8.21,yes
+Campobasso,Italy,8.2,yes
+Mytilene,Greece,8.05,yes
+Burgos,Spain,8.0,yes
+Valladolid,Spain,7.98,yes
+Montpellier,France,7.96,yes
+Kaliningrad,Russia,7.91,yes
+Mostar,Bosnia and Herzegovina,7.9,yes
+Constanța,Romania,7.89,yes
+Le Havre,France,7.8,yes
+Thessaloniki,Greece,7.79,yes
+Rennes,France,7.76,yes
+Burgas,Bulgaria,7.74,yes
+Penzance,United Kingdom,7.66,yes
+Huesca,Spain,7.48,yes
+Guarda,Portugal,7.47,yes
+Salamanca,Spain,7.42,yes
+Pécs,Hungary,7.3,yes
+L'Aquila,Italy,7.29,yes
+Bihać,Bosnia and Herzegovina,7.18,yes
+Istanbul,Turkey,7.08,yes
+Avignon,France,7.03,yes
+Pamplona,Spain,7.02,yes
+Belgorod,Russia,6.99,yes
+Le Mans,France,6.97,yes
+La Rochelle,France,6.96,yes
+Lleida,Spain,6.9,yes
+Kragujevac,Serbia,6.87,yes
+Sarajevo,Bosnia and Herzegovina,6.73,yes
+Pau,France,6.72,yes
+Komotini,Greece,6.61,yes
+Larissa,Greece,6.61,yes
+Galway,Ireland,6.56,yes
+St Helier,Jersey,6.51,yes
+Lugano,Switzerland,6.51,yes
+St Peter Port,Guernsey,6.49,yes
+Angers,France,6.34,yes
+Călărași,Romania,6.24,yes
+Nantes,France,6.22,yes
+Bucharest,Romania,6.19,yes
+Sibiu,Romania,6.18,yes
+Bologna,Italy,6.15,yes
+Edirne,Turkey,6.13,yes
+Sligo,Ireland,6.1,yes
+Odesa,Ukraine,6.07,yes
+Kerch,Ukraine,6.01,yes
+Tekirdağ,Turkey,6.0,yes
+Bragança,Portugal,6.0,yes
+Ostend,Belgium,5.99,yes
+Trento,Italy,5.98,yes
+Sochi,Russia,5.92,yes
+Kherson,Ukraine,5.89,yes
+Cork,Ireland,5.88,yes
+Galați,Romania,5.88,yes
+Cherbourg-en-Cotentin,France,5.86,yes
+Parma,Italy,5.85,yes
+Ohrid,North Macedonia,5.85,yes
+Trieste,Italy,5.78,yes
+Kaluga,Russia,5.77,yes
+Limerick,Ireland,5.77,yes
+Sevastopol,Ukraine,5.71,yes
+Mykolaiv,Ukraine,5.61,yes
+Timișoara,Romania,5.55,yes
+Podgorica,Montenegro,5.54,yes
+Kirkwall,United Kingdom,5.5,yes
+Focșani,Romania,5.45,yes
+Turin,Italy,5.38,yes
+Kozani,Greece,5.38,yes
+Strumica,North Macedonia,5.37,yes
+Kuressaare,Estonia,5.36,yes
+Szeged,Hungary,5.33,yes
+Ruse,Bulgaria,5.33,yes
+Bratislava,Slovakia,5.33,yes
+Cardiff,United Kingdom,5.31,yes
+Valence,France,5.25,yes
+Plymouth,United Kingdom,5.23,yes
+Geneva,Switzerland,5.21,yes
+Calais,France,5.21,yes
+Cuneo,Italy,5.13,yes
+Ploiești,Romania,5.08,yes
+Holyhead,United Kingdom,5.05,yes
+Tours,France,5.02,yes
+Waterford,Ireland,4.99,yes
+Venice,Italy,4.99,yes
+Swansea,United Kingdom,4.99,yes
+Vienna,Austria,4.99,yes
+Iași,Romania,4.95,yes
+Ioannina,Greece,4.92,yes
+Belfast,United Kingdom,4.92,yes
+Douglas,Isle of Man,4.88,yes
+Derry,United Kingdom,4.88,yes
+Milan,Italy,4.84,yes
+Grenoble,France,4.76,yes
+Lyon,France,4.75,yes
+Toulouse,France,4.75,yes
+Paris,France,4.68,yes
+Bristol,United Kingdom,4.68,yes
+Novi Pazar,Serbia,4.63,yes
+Lausanne,Switzerland,4.59,yes
+Mannheim,Germany,4.52,yes
+Southampton,United Kingdom,4.51,yes
+Suceava,Romania,4.5,yes
+Antwerp,Belgium,4.43,yes
+Liverpool,United Kingdom,4.37,yes
+León,Spain,4.37,yes
+Brighton,United Kingdom,4.34,yes
+Lerwick,United Kingdom,4.32,yes
+Bălți,Moldova,4.28,yes
+Lucerne,Switzerland,4.26,yes
+Ghent,Belgium,4.22,yes
+Kryvyi Rih,Ukraine,4.21,yes
+Lille,France,4.19,yes
+Chernivtsi,Ukraine,4.18,yes
+Tiraspol,Moldova,4.16,yes
+Kharkiv,Ukraine,4.05,yes
+Ljubljana,Slovenia,4.05,yes
+Bern,Switzerland,4.01,yes
+Veszprém,Hungary,4.0,yes
+Bacău,Romania,4.0,yes
+Craiova,Romania,3.97,yes
+Cologne,Germany,3.94,yes
+Mariupol,Ukraine,3.94,yes
+Trenčín,Slovakia,3.86,yes
+Wrocław,Poland,3.84,yes
+Zalaegerszeg,Hungary,3.84,yes
+Liepāja,Latvia,3.83,yes
+Glasgow,United Kingdom,3.83,yes
+Sofia,Bulgaria,3.82,yes
+Dijon,France,3.8,yes
+Udine,Italy,3.77,yes
+Nitra,Slovakia,3.75,yes
+Brno,Czech Republic,3.74,yes
+Novorossyisk,Russia,3.73,yes
+Verona,Italy,3.72,yes
+Pristina,Kosovo,3.69,yes
+Manchester,United Kingdom,3.69,yes
+Voronezh,Russia,3.66,yes
+Melitopol,Ukraine,3.64,yes
+Flensburg,Germany,3.58,yes
+Kecskemét,Hungary,3.57,yes
+Limoges,France,3.54,yes
+Oxford,United Kingdom,3.54,yes
+Plovdiv,Bulgaria,3.53,yes
+Dublin,Ireland,3.52,yes
+London,United Kingdom,3.51,yes
+Würzburg,Germany,3.48,yes
+Aberdeen,United Kingdom,3.45,yes
+Vidin,Bulgaria,3.45,yes
+Aberystwyth,United Kingdom,3.45,yes
+Chișinău,Moldova,3.44,yes
+Nottingham,United Kingdom,3.42,yes
+Brussels,Belgium,3.35,yes
+Opole,Poland,3.33,yes
+Hull,United Kingdom,3.29,yes
+Canterbury,United Kingdom,3.28,yes
+Esbjerg,Denmark,3.26,yes
+Düsseldorf,Germany,3.25,yes
+Klaipėda,Lithuania,3.25,yes
+Sion,Switzerland,3.19,yes
+Deva,Romania,3.19,yes
+Rønne,Denmark,3.19,yes
+Liège,Belgium,3.18,yes
+Târgu Jiu,Romania,3.18,yes
+Amsterdam,Netherlands,3.18,yes
+Hanover,Germany,3.17,yes
+Ivano-Frankivsk,Ukraine,3.16,yes
+Satu Mare,Romania,3.16,yes
+Brașov,Romania,3.12,yes
+Newcastle upon Tyne,United Kingdom,3.1,yes
+Rodez,France,3.09,yes
+Norwich,United Kingdom,3.06,yes
+Rouen,France,3.06,yes
+Skopje,North Macedonia,3.01,yes
+Budapest,Hungary,3.01,yes
+Dundee,United Kingdom,3.01,yes
+Győr,Hungary,3.0,yes
+Rzeszów,Poland,2.99,yes
+Stary Oskol,Russia,2.99,yes
+Zurich,Switzerland,2.99,yes
+Strasbourg,France,2.98,yes
+Pitești,Romania,2.95,yes
+Zaporizhzhia,Ukraine,2.94,yes
+Clermont-Ferrand,France,2.92,yes
+Amiens,France,2.91,yes
+Basel,Switzerland,2.9,yes
+Olomouc,Czech Republic,2.9,yes
+Stuttgart,Germany,2.89,yes
+Cambridge,United Kingdom,2.88,yes
+Karlsruhe,Germany,2.85,yes
+Leeds,United Kingdom,2.85,yes
+Eindhoven,Netherlands,2.81,yes
+St. Pölten,Austria,2.81,yes
+Leicester,United Kingdom,2.79,yes
+Pardubice,Czech Republic,2.79,yes
+Kraków,Poland,2.79,yes
+Middlesbrough,United Kingdom,2.78,yes
+Freiburg im Breisgau,Germany,2.78,yes
+Rotterdam,Netherlands,2.78,yes
+Sheffield,United Kingdom,2.76,yes
+Simferopol,Ukraine,2.74,yes
+Berlin,Germany,2.72,yes
+Stornoway,United Kingdom,2.68,yes
+Neubrandenburg,Germany,2.68,yes
+Poitiers,France,2.67,yes
+Dnipro,Ukraine,2.66,yes
+Nijmegen,Netherlands,2.64,yes
+Bordeaux,France,2.63,yes
+Gorzów Wielkopolski,Poland,2.62,yes
+Szczecin,Poland,2.62,yes
+Utrecht,Netherlands,2.62,yes
+Prague,Czech Republic,2.61,yes
+Ipswich,United Kingdom,2.59,yes
+Orléans,France,2.58,yes
+Regensburg,Germany,2.58,yes
+České Budějovice,Czech Republic,2.58,yes
+Leipzig,Germany,2.56,yes
+Rostock,Germany,2.56,yes
+Maribor,Slovenia,2.54,yes
+Koblenz,Germany,2.53,yes
+Odense,Denmark,2.51,yes
+Stoke-on-Trent,United Kingdom,2.46,yes
+Cottbus,Germany,2.45,yes
+Herning,Denmark,2.45,yes
+Ventspils,Latvia,2.45,yes
+Zwolle,Netherlands,2.41,yes
+Lübeck,Germany,2.41,yes
+Frankfurt,Germany,2.4,yes
+Bistrița,Romania,2.4,yes
+Troyes,France,2.39,yes
+Charleroi,Belgium,2.39,yes
+Hamburg,Germany,2.38,yes
+Wilhelmshaven,Germany,2.38,yes
+Bolzano,Italy,2.34,yes
+Magdeburg,Germany,2.34,yes
+Warsaw,Poland,2.33,yes
+Stara Zagora,Bulgaria,2.33,yes
+Kiel,Germany,2.3,yes
+Groningen,Netherlands,2.3,yes
+Białystok,Poland,2.29,yes
+Poznań,Poland,2.29,yes
+Copenhagen,Denmark,2.28,yes
+Dortmund,Germany,2.26,yes
+Kalisz,Poland,2.26,yes
+Leeuwarden,Netherlands,2.24,yes
+Koszalin,Poland,2.24,yes
+Ulm,Germany,2.24,yes
+Bremen,Germany,2.24,yes
+Enschede,Netherlands,2.22,yes
+Krasnodar,Russia,2.21,yes
+Edinburgh,United Kingdom,2.21,yes
+Birmingham,United Kingdom,2.2,yes
+Cluj-Napoca,Romania,2.19,yes
+Stavanger,Norway,2.18,yes
+Reims,France,2.18,yes
+Płock,Poland,2.18,yes
+Dresden,Germany,2.13,yes
+Visby,Sweden,2.11,yes
+Nancy,France,2.11,yes
+Graz,Austria,2.11,yes
+Kaunas,Lithuania,2.1,yes
+Inverness,United Kingdom,2.1,yes
+Passau,Germany,2.09,yes
+Radom,Poland,2.08,yes
+Kyiv,Ukraine,2.08,yes
+Münster,Germany,2.07,yes
+Rivne,Ukraine,2.06,yes
+Karlskrona,Sweden,2.06,yes
+Aarhus,Denmark,2.04,yes
+Bourges,France,2.04,yes
+Poltava,Ukraine,2.02,yes
+Saarbrücken,Germany,2.0,yes
+Gdańsk,Poland,1.98,yes
+Pervomaisk,Ukraine,1.97,yes
+Linz,Austria,1.96,yes
+Debrecen,Hungary,1.94,yes
+Augsburg,Germany,1.93,yes
+Łódź,Poland,1.93,yes
+Uzhhorod,Ukraine,1.9,yes
+Miskolc,Hungary,1.89,yes
+Lutsk,Ukraine,1.88,yes
+Erfurt,Germany,1.88,yes
+Fort William,United Kingdom,1.87,yes
+Kropyvnytskyi,Ukraine,1.87,yes
+Bydgoszcz,Poland,1.85,yes
+Khmelnytskyi,Ukraine,1.83,yes
+Kramatorsk,Ukraine,1.83,yes
+Munich,Germany,1.82,yes
+Salzburg,Austria,1.82,yes
+Friedrichshafen,Germany,1.81,yes
+Metz,France,1.76,yes
+Halmstad,Sweden,1.75,yes
+Vestmannaeyjabær,Iceland,1.75,yes
+Ternopil,Ukraine,1.73,yes
+Kassel,Germany,1.73,yes
+Reykjavík,Iceland,1.73,yes
+Katowice,Poland,1.72,yes
+Ostrołęka,Poland,1.71,yes
+Oradea,Romania,1.69,yes
+Kalmar,Sweden,1.69,yes
+Ostrava,Czech Republic,1.67,yes
+Zielona Góra,Poland,1.66,yes
+Vinnytsia,Ukraine,1.63,yes
+Bielefeld,Germany,1.62,yes
+Ålesund,Norway,1.61,yes
+Brest,Belarus,1.57,yes
+Miercurea Ciuc,Romania,1.55,yes
+Lublin,Poland,1.54,yes
+Sumy,Ukraine,1.53,yes
+Plzeň,Czech Republic,1.51,yes
+Coburg,Germany,1.51,yes
+Luhansk,Ukraine,1.45,yes
+Vaduz,Liechtenstein,1.38,yes
+Aalborg,Denmark,1.37,yes
+Olsztyn,Poland,1.36,yes
+Częstochowa,Poland,1.34,yes
+Chemnitz,Germany,1.34,yes
+Zhytomyr,Ukraine,1.31,yes
+Tórshavn,Faroe Islands,1.3,yes
+Nuremberg,Germany,1.29,yes
+Fulda,Germany,1.29,yes
+Banská Bystrica,Slovakia,1.23,yes
+Lviv,Ukraine,1.23,yes
+Liberec,Czech Republic,1.2,yes
+Košice,Slovakia,1.14,yes
+Kielce,Poland,1.11,yes
+Hrodna,Belarus,1.09,yes
+Carlisle,United Kingdom,1.01,yes
+Šiauliai,Lithuania,1.01,yes
+Luxembourg,Luxembourg,0.88,yes
+Lipetsk,Russia,0.84,yes
+Innsbruck,Austria,0.8,yes
+Žilina,Slovakia,0.73,yes
+Rossosh,Russia,0.71,yes
+Bila Tserkva,Ukraine,0.7,yes
+Donetsk,Ukraine,0.7,yes
+Vilnius,Lithuania,0.61,yes
+Stockholm,Sweden,0.56,yes
+Chernihiv,Ukraine,0.55,yes
+Riga,Latvia,0.52,yes
+Aosta,Italy,0.46,yes
+Daugavpils,Latvia,0.44,yes
+Pinsk,Belarus,0.43,yes
+Karlovy Vary,Czech Republic,0.33,yes
+Utena,Lithuania,0.24,yes
+Florø,Norway,0.24,yes
+Jihlava,Czech Republic,0.23,yes
+Mazyr,Belarus,0.21,yes
+Kristiansand,Norway,0.16,yes
+Klagenfurt,Austria,0.13,yes
+Cherkasy,Ukraine,0.06,yes
+Tula,Russia,0.06,yes
+Gothenburg,Sweden,-0.06,yes
+Uppsala,Sweden,-0.15,yes
+Grozny,Russia,-0.17,yes
+Baranavichy,Belarus,-0.26,yes
+Homel,Belarus,-0.28,yes
+Rēzekne,Latvia,-0.29,yes
+Linköping,Sweden,-0.32,yes
+Jönköping,Sweden,-0.48,yes
+Navapolack,Belarus,-0.5,yes
+Västerås,Sweden,-0.5,yes
+Oryol,Russia,-0.51,yes
+Liezen,Austria,-0.68,yes
+Örebro,Sweden,-0.71,yes
+Maykop,Russia,-0.72,yes
+Bergen,Norway,-0.73,yes
+Salihorsk,Belarus,-0.74,yes
+Mariehamn,Finland,-0.76,yes
+Sandefjord,Norway,-0.81,yes
+Babruysk,Belarus,-0.81,yes
+Pärnu,Estonia,-0.91,yes
+Minsk,Belarus,-0.94,yes
+Mahilyow,Belarus,-0.95,yes
+Valmiera,Latvia,-0.96,yes
+Lienz,Austria,-0.97,yes
+Rostov-on-Don,Russia,-0.98,yes
+Velikiye Luki,Russia,-1.23,yes
+Kristiansund,Norway,-1.24,yes
+Astrakhan,Russia,-1.31,yes
+Gävle,Sweden,-1.33,yes
+Viciebsk,Belarus,-1.35,yes
+Karlstad,Sweden,-1.49,yes
+Oslo,Norway,-1.65,yes
+Zakopane,Poland,-1.67,yes
+Smolensk,Russia,-1.9,yes
+Bryansk,Russia,-2.05,yes
+Tambov,Russia,-2.14,yes
+Sankt Moritz,Switzerland,-2.51,yes
+Falun,Sweden,-2.53,yes
+Ísafjörður,Iceland,-2.75,yes
+Hamar,Norway,-2.77,yes
+Borisoglebsk,Russia,-2.96,yes
+Tallinn,Estonia,-3.39,yes
+Vyazma,Russia,-3.44,yes
+Helsinki,Finland,-3.49,yes
+Nalchik,Russia,-3.49,yes
+Vladikavkaz,Russia,-3.54,yes
+Kotka,Finland,-3.61,yes
+Stavropol,Russia,-3.88,yes
+Ryazan,Russia,-3.93,yes
+Trondheim,Norway,-4.11,yes
+Akureyri,Iceland,-4.11,yes
+Volgodonsk,Russia,-4.29,yes
+Pskov,Russia,-4.46,yes
+Turku,Finland,-4.47,yes
+Sundsvall,Sweden,-4.5,yes
+Cherkessk,Russia,-4.53,yes
+Tartu,Estonia,-4.88,yes
+Rørvik,Norway,-5.02,yes
+Moscow,Russia,-5.67,yes
+Volgograd,Russia,-5.76,yes
+Pori,Finland,-5.85,yes
+Egilsstaðir,Iceland,-5.97,yes
+Elista,Russia,-6.2,yes
+Narva,Estonia,-6.34,yes
+Umeå,Sweden,-6.46,yes
+Tampere,Finland,-6.47,yes
+Lahti,Finland,-6.93,yes
+Tromsø,Norway,-7.03,yes
+Tver,Russia,-7.39,yes
+Veliky Novgorod,Russia,-7.46,yes
+Narvik,Norway,-7.58,yes
+Kamyshin,Russia,-7.67,yes
+Saint Petersburg,Russia,-7.72,yes
+Bodø,Norway,-7.87,yes
+Alta,Norway,-8.31,yes
+Lappeenranta,Finland,-8.46,yes
+Vladimir,Russia,-8.64,yes
+Östersund,Sweden,-8.91,yes
+Penza,Russia,-9.28,yes
+Vaasa,Finland,-9.53,yes
+Arzamas,Russia,-9.56,yes
+Petrozavodsk,Russia,-9.65,yes
+Tikhvin,Russia,-9.65,yes
+Ivanovo,Russia,-9.8,yes
+Yaroslavl,Russia,-9.97,yes
+Saransk,Russia,-9.97,yes
+Apatity,Russia,-10.27,yes
+Nizhny Novgorod,Russia,-10.32,yes
+Jyväskylä,Finland,-10.43,yes
+Saratov,Russia,-10.59,yes
+Kokkola,Finland,-10.69,yes
+Joensuu,Finland,-10.91,yes
+Kostroma,Russia,-10.97,yes
+Berezniki,Russia,-11.04,yes
+Oral,Kazakhstan,-11.34,yes
+Cherepovets,Russia,-11.48,yes
+Ulyanovsk,Russia,-11.67,yes
+Belomorsk,Russia,-11.71,yes
+Perm,Russia,-12.16,yes
+Kuopio,Finland,-12.19,yes
+Ivalo,Finland,-12.26,yes
+Naberezhnye Chelny,Russia,-12.54,yes
+Storuman,Sweden,-12.61,yes
+Cheboksary,Russia,-12.66,yes
+Vologda,Russia,-12.67,yes
+Vorkuta,Russia,-12.8,yes
+Oulu,Finland,-12.8,yes
+Sterlitamak,Russia,-12.85,yes
+Syktyvkar,Russia,-13.24,yes
+Sharya,Russia,-13.33,yes
+Glazov,Russia,-13.35,yes
+Kirov,Russia,-13.6,yes
+Izhevsk,Russia,-13.68,yes
+Rovaniemi,Finland,-14.13,yes
+Ufa,Russia,-14.25,yes
+Ukhta,Russia,-14.35,yes
+Samara,Russia,-14.55,yes
+Luleå,Sweden,-14.94,yes
+Arkhangelsk,Russia,-15.13,yes
+Syzran,Russia,-15.2,yes
+Murmansk,Russia,-15.37,yes
+Velsk,Russia,-15.42,yes
+Kazan,Russia,-15.91,yes
+Kotlas,Russia,-15.91,yes
+Kajaani,Finland,-17.25,yes
+Naryan-Mar,Russia,-17.88,yes
+Kirkenes,Norway,-18.17,yes
+Kiruna,Sweden,-19.84,yes
