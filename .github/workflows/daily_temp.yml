@@ -1,0 +1,38 @@
+name: Daily Weather Update
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # running at 15:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas geopandas requests fiona
+
+      - name: Run weather script
+        env:
+          OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
+        run: scripts/get_temps.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Automated weather update $(date)" || echo "No changes to commit"
+          git push
