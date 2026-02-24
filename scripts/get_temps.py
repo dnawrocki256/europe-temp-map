@@ -6,9 +6,6 @@ import os
 from datetime import datetime
 
 KEY = os.getenv("OPENWEATHER_KEY")
-if not KEY:
-        with open("k.txt", "r") as f:
-            KEY = f.read().strip()
 
 date = datetime.now().strftime("%Y-%m-%d")
 print(date)
