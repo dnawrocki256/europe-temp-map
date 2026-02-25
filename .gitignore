@@ -1,4 +1,12 @@
 k.txt
+*.mgrd
+*.prj
+*.sdat
+*.sgrd
+*.tfw
+*.tif
+*.tif.aux.xml
+*.gpkg
 .env
 __pycache__/
 *.csv

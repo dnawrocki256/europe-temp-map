@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <DATABASE></DATABASE>
+  <SOURCE></SOURCE>
+  <HISTORY saga-version="9.7.1">
+    <TOOL library="grid_spline" id="2" name="Thin Plate Spline (TIN)">
+      <OPTION type="table_field" id="FIELD" name="Attribute" index="5">temp_rd</OPTION>
+      <OPTION type="choice" id="TARGET_DEFINITION" name="Target Grid System" index="0">user defined</OPTION>
+      <OPTION type="double" id="TARGET_USER_SIZE" name="Cellsize">0.1</OPTION>
+      <OPTION type="double" id="TARGET_USER_XMIN" name="West">-47.82229186099998</OPTION>
+      <OPTION type="double" id="TARGET_USER_XMAX" name="East">81.377708139</OPTION>
+      <OPTION type="double" id="TARGET_USER_YMIN" name="South">25.980423564999992</OPTION>
+      <OPTION type="double" id="TARGET_USER_YMAX" name="North">74.48042356500000</OPTION>
+      <OPTION type="integer" id="TARGET_USER_COLS" name="Columns">1291</OPTION>
+      <OPTION type="integer" id="TARGET_USER_ROWS" name="Rows">485</OPTION>
+      <OPTION type="boolean" id="TARGET_USER_FLAT" name="Rounding">true</OPTION>
+      <OPTION type="choice" id="TARGET_USER_FITS" name="Fit" index="1">cells</OPTION>
+      <OPTION type="double" id="REGULARISATION" name="Regularisation">0.0001</OPTION>
+      <OPTION type="choice" id="LEVEL" name="Neighbourhood" index="1">level 1</OPTION>
+      <OPTION type="boolean" id="FRAME" name="Add Frame">true</OPTION>
+      <INPUT type="shapes" id="SHAPES" name="Points">
+        <FILE>C:/Users/europ/AppData/Local/Temp/processing_VHCxkE/401be5b79b344058bb2ff880cb1cf1ac/SHAPES.shp</FILE>
+      </INPUT>
+      <OUTPUT type="grid" id="TARGET_OUT_GRID" name="Target Grid">SHAPES.temp_rd [Thin Plate Spline (TIN)]</OUTPUT>
+    </TOOL>
+  </HISTORY>
+  <FILE></FILE>
+  <DESCRIPTION></DESCRIPTION>
+  <PROJECTION>
+    <WKT2>GEODCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ID["EPSG",6326]],PRIMEM["Greenwich",0,ANGLEUNIT["Degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["longitude",east,ORDER[1],ANGLEUNIT["Degree",0.0174532925199433]],AXIS["latitude",north,ORDER[2],ANGLEUNIT["Degree",0.0174532925199433]]]</WKT2>
+    <PROJ>+proj=longlat +datum=WGS84 +no_defs +type=crs</PROJ>
+    <CODE>-1</CODE>
+  </PROJECTION>
+</SAGA_METADATA>
